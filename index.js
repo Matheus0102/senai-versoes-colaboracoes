@@ -1,3 +1,5 @@
+// sistema de codificação de contagem de peças
+
 let pesoPeca = 0;
 let nomePeca = "";
 let qtdPecasCaixa = 0;
